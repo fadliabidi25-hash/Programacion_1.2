@@ -1,4 +1,3 @@
-package ProblemasT3;
 import java.util.Scanner;
 public class TablaMultiplicar{
     public static void main(String[] args) {

@@ -8,7 +8,7 @@ public class NumeroPrimo{
         int divisor=2;
 
         if(num<2){
-            esPrimo=false;´
+            esPrimo=false;
         }else {
 
             while(esPrimo && divisor<num){
@@ -19,12 +19,13 @@ public class NumeroPrimo{
                 }
             }
             
-            if(!esPrimo){
+        }
+
+        if(!esPrimo){
                 System.out.println("No es primo");
             }else{
                 System.out.println("Es primo");
             }
-        }
 
 }
 }

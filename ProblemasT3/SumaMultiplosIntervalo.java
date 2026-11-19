@@ -1,4 +1,4 @@
-package ProblemasT3;
+
 
 /**
  *  Este programa suma los multiplos d eun numero entre otros dos.

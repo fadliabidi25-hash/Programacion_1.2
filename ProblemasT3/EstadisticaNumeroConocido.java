@@ -1,4 +1,4 @@
-package ProblemasT3;
+
 import java.util.Scanner;
 public class EstadisticaNumeroConocido{
         public static void main(String[] args) {
